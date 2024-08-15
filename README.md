@@ -1,0 +1,1 @@
+This project was a raspberry pi based robot coded in python. It had to navigate a map, detecting when obstacles were encountered and adjusting course accordingly. It had to use sensors to navigate the map, then would launch ping pong balls in different buckets.
